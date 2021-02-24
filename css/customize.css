@@ -23,6 +23,7 @@
 .btn-primary {
 	background-color: #594BFF;
 	font-family: 'Comfortaa', cursive;
+	border: none !important;
 }
 
 .btn-secondary {
